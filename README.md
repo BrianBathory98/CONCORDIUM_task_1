@@ -62,6 +62,9 @@ this is my submission for concordium hackaton event
 
 ## Creating Testnet Account
 - creating ID using testnet network
+  ![image](https://user-images.githubusercontent.com/41656124/217169515-7fe2cbc2-76d8-4fdb-b563-d516321dedcb.png)
+  ![image](https://user-images.githubusercontent.com/41656124/217169601-3adf5b07-fe3c-4af8-9c9e-e20c668fb0f9.png)
+
 
     
 
