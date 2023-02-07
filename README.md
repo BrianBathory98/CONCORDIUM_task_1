@@ -1,5 +1,7 @@
 # CONCORDIUM_task_1
 this is my submission for concordium hackaton event
+- Mainnet Concordium wallet : 3fZro3wkcwmDLUUmqPiPfmCHwP68sHBaiaMREbQieSZ5eqvBZf
+
 
 ## INSTALL RUST
 # Since im using vps so maybe the command will be different
@@ -94,6 +96,5 @@ this is my submission for concordium hackaton event
 
    
 
-## Mainnet Wallet
-- Mainnet Concordium : 3fZro3wkcwmDLUUmqPiPfmCHwP68sHBaiaMREbQieSZ5eqvBZf
+
 
