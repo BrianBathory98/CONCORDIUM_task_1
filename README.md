@@ -60,6 +60,9 @@ this is my submission for concordium hackaton event
 ## Install Web Wallet
 - install [chrome extension](https://chrome.google.com/webstore/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg?hl=en-US)
 
+![image](https://user-images.githubusercontent.com/41656124/217176954-cc3827a0-1f07-4e79-95e3-3b50c4754c0f.png)
+
+
 ## Creating Testnet Account
 - creating ID using Concordium testnet IP (just create it, you can edit later)
 
