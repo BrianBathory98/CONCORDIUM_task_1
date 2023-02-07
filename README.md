@@ -1,6 +1,7 @@
 # CONCORDIUM_task_1
-this is my submission for concordium hackaton event
-- Mainnet Concordium wallet : 3fZro3wkcwmDLUUmqPiPfmCHwP68sHBaiaMREbQieSZ5eqvBZf
+THIS IS MY SUBMISSION FOR CONCORDIUM TASK 1
+
+- My Mainnet Concordium wallet : 3fZro3wkcwmDLUUmqPiPfmCHwP68sHBaiaMREbQieSZ5eqvBZf
 
 
 ## INSTALL RUST
