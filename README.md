@@ -61,12 +61,20 @@ this is my submission for concordium hackaton event
 - install [chrome extension](https://chrome.google.com/webstore/detail/concordium-wallet/mnnkpffndmickbiakofclnpoiajlegmg?hl=en-US)
 
 ## Creating Testnet Account
-- creating ID using testnet network
+- creating ID using Concordium testnet IP (just create it, you can edit later)
 
 
   ![image](https://user-images.githubusercontent.com/41656124/217169515-7fe2cbc2-76d8-4fdb-b563-d516321dedcb.png)
   ![image](https://user-images.githubusercontent.com/41656124/217169601-3adf5b07-fe3c-4af8-9c9e-e20c668fb0f9.png)
+  
+ 
+- create an account
 
+![image](https://user-images.githubusercontent.com/41656124/217170073-f919f1a6-f7aa-4524-a884-d974dc54d567.png)
+
+- and request the testnet token (click on the blue circle)
+
+![image](https://user-images.githubusercontent.com/41656124/217170530-e2ca6a54-5c6f-4eeb-8809-0a8906b4f419.png)
 
     
 
