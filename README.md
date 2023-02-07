@@ -76,7 +76,20 @@ this is my submission for concordium hackaton event
 
 ![image](https://user-images.githubusercontent.com/41656124/217170530-e2ca6a54-5c6f-4eeb-8809-0a8906b4f419.png)
 
-    
+ ## Export The Key
+- export your private key using setting in the extension -> export private key
+- drag and drop the file to the vps
+    ![image](https://user-images.githubusercontent.com/41656124/217171414-ad9e8245-9fe9-480a-b0c2-236ce024feb1.png)
 
+- run  
+    ````
+    concordium-client config account import <YOUR PUBLIC ADDRESS.export> --name <Your-Wallet-Name> 
+    ````
+    the output should be like this
+    ![image](https://user-images.githubusercontent.com/41656124/217171624-57334ee6-e76b-409a-a2d4-cd0ba3d5e7d7.png)
 
+   
+
+## Mainnet Wallet
+- Mainnet Concordium : 3fZro3wkcwmDLUUmqPiPfmCHwP68sHBaiaMREbQieSZ5eqvBZf
 
